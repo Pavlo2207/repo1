@@ -1,3 +1,9 @@
+# завдання №1
+import this
+import antigravity
+import __hello__
+from __future__ import braces
+
 # завдання №2
 import math
 a = 1
